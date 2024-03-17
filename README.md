@@ -1,4 +1,4 @@
-# Environmental Monitoring App Readme
+# Agro Android App 
 
 This Android application allows users to monitor various environmental parameters such as turbidity, water level, soil moisture, temperature, and humidity. The app incorporates Google Firebase for real-time data storage and synchronization, along with SQLite for local storage. Users can also register and log in to the app to access personalized features and data.
 
