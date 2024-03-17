@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694428198992",
+    "project_id": "dhanushtest-94378",
+    "storage_bucket": "dhanushtest-94378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694428198992:android:e4666bc059e5a55c618955",
+        "android_client_info": {
+          "package_name": "com.example.agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjKBdUxeODkiMyN8K6FXH79I_wnKlHv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
